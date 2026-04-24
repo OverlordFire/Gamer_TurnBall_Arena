@@ -42,10 +42,10 @@
             
             #canvas {
                 width: 100%;   /* ocupa largura da tela */
-                height: 1280px;  /* ocupa altura da tela */
-                aspect-ratio: 16 / 9;
-                object-fit: contain; /* mantém proporção */
+                max-width: 1280px;
+                aspect-ratio: 16 / 9;/* mantém proporção */
                 display: block;
+                height: auto;  /* ocupa altura da tela */
             }
             :-webkit-full-screen #canvas {
                 width: 100%;
