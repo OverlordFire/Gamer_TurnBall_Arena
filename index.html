@@ -39,14 +39,6 @@
                 padding: 0px;
                 border: 0px;
             }
-            
-            #canvas {
-                width: 100%;
-                max-width: 1280px;
-                height: auto;
-                display: block;
-                
-            }
             :-webkit-full-screen #canvas {
                 width: 100%;
                 height: 100%;
@@ -80,12 +72,6 @@
             div.gm4html5_login_header {
                 text-align: center;
             }
-            #gm4html5_div_id {
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                height: 100vh;
-            }
             /* END - Custom Runner Styles */
             
         </style>
@@ -116,14 +102,17 @@
             
 
             <!-- Create the canvas element the game draws to -->
-            <canvas id="canvas" width="1280" height="720">
+            <canvas id="canvas" width="1280" height="720" style="position: absolute; top: 50%; left: 50%; bottom: -50%; right: -50%; transform: translate(-50%, -50%);">
+                
+                <p>Your browser doesn't support HTML5 canvas.</p>
             </canvas>
+            
             <!-- Custom PostCanvas code is injected here -->
             
         </div>
 
         <!-- Run the game code -->
-        <script type="text/javascript" src="TurnBall Arena Gamer/TurnBall_Arena.js?cachebust=203399493"></script>
+        <script type="text/javascript" src="TurnBall Arena Gamer/TurnBall_Arena.js?cachebust=1438812275"></script>
 
         <!-- Builtin injector for injecting runner path -->
         
