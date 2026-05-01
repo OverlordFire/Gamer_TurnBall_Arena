@@ -1,0 +1,47 @@
+{
+    "D_Text": [
+        "Desvie para sobreviver.",
+        "Observe os padroes.",
+        "Mantenha-se em movimento.",
+        "Voce aprende rapido.",
+        "Isso esta ficando interessante.",
+        "Impressionante. Voce chegou ate aqui.",
+        "Por que voce ainda esta aqui?",
+        "Isso deveria ter acabado.",
+        "Algo esta diferente.",
+        "Voce nao cansa?",
+        "Nao precisa continuar.",
+        "Isso nao vai mudar.",
+        "...",
+        "Ainda aqui.",
+        "Eu vejo voce.",
+        "Voce hesitou.",
+        "Nao olhe para tras."
+    ],
+
+    "settings_sfx": "SFX Volume",
+    "settings_music": "BGM Volume",
+    "settings_language": "Idioma",
+    "settings_back": "Voltar",
+    
+    "Menu": {
+        "Options": "Opções",
+        "Exit": "Sair"
+    },
+    
+    "GameOver": {
+        "Title": "Fim de Jogo",
+        "Time": "Tempo",
+        "BestTime": "Melhor Tempo",
+        "RestartMobile": "Clique para reiniciar",
+        "RestartPC": "Pressione ENTER para reiniciar"
+    },
+
+    "Selector": {
+        "Title": "SELEÇÃO",
+        "Coins": "C",
+        "NoBuy": "BLOQUEADO",
+        "Equipped": "EQUIPADO",
+        "Equip": "EQUIPAR"
+    }
+}

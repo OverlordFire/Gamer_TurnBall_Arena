@@ -1,0 +1,47 @@
+{
+    "D_Text": [
+        "Dodge to survive.",
+        "Observe the patterns.",
+        "Keep moving.",
+        "You learn quickly.",
+        "This is getting interesting.",
+        "Impressive. You made it this far.",
+        "Why are you still here?",
+        "This should have ended.",
+        "Something is different.",
+        "Do you never get tired?",
+        "You don't need to continue.",
+        "This won't change.",
+        "...",
+        "Still here.",
+        "I see you.",
+        "You hesitated.",
+        "Don't look back."
+    ],
+
+    "settings_sfx": "SFX Volume",
+    "settings_music": "BGM Volume",
+    "settings_language": "Language",
+    "settings_back": "Back",
+
+    "Menu": {
+        "Options": "Settings",
+        "Exit": "Quit"
+    },
+    
+    "GameOver": {
+        "Title": "Game Over",
+        "Time": "Time",
+        "BestTime": "Best Time",
+        "RestartMobile": "Click to restart",
+        "RestartPC": "Press ENTER to restart"
+    },
+
+    "Selector": {
+        "Title": "SELECTION",
+        "Coins": "C",
+        "NoBuy": "LOCKED",
+        "Equipped": "EQUIPPED",
+        "Equip": "EQUIP"
+    }
+}
